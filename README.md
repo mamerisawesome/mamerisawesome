@@ -12,19 +12,28 @@
 
 🐈 Lives with three cats 🐈🐈
 
-## Github Stats
-
-![Almer's GitHub stats](https://github-readme-stats.vercel.app/api?username=mamerisawesome&show_icons=true&theme=dark)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mamerisawesome&layout=compact&theme=dark)](https://github.com/mamerisawesome)
-
+<br />
 
 <details>
-  <summary>🗔 Random apps that I have deployed</summary>
+  <summary><b>📊 Github Stats</b></summary>
+
+  <br />
+
+  ![Almer's GitHub stats](https://github-readme-stats.vercel.app/api?username=mamerisawesome&show_icons=true&theme=dark)
+
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mamerisawesome&layout=compact&theme=dark)](https://github.com/mamerisawesome)
+</details>
+
+<br />
+
+<details>
+  <summary><b>💻 Random deployed apps</b></summary>
+
+  <br />
 
   - [Journaling Application that saves to local storage](https://maktabajournal.netlify.app/)
 
-  <div style="display: inline-flex; gap: 12px;">
+  <div style="display: flex; gap: 10px">
     <img src="./assets/Landing.png" />
     <img src="./assets/Entries.png" />
   </div>
