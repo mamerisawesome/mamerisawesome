@@ -10,7 +10,7 @@
 
 🕸️ Uses Python and JavaScript
 
-🐈 Has three cats
+🐈 Lives with three cats 🐈🐈
 
 ## Github Stats
 
