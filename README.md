@@ -1,4 +1,8 @@
+
+<!--
+TODO: Hits counter API check
 ![Visitor Count](https://profile-counter.glitch.me/mamerisawesome/count.svg)
+-->
 
 ## **Almer TM**
 
