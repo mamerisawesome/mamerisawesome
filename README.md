@@ -16,6 +16,7 @@ TODO: Hits counter API check
 
 🐈 Lives with three cats 🐈🐈
 
+<!--
 <br />
 
 <details>
@@ -29,6 +30,7 @@ TODO: Hits counter API check
 </details>
 
 <br />
+-->
 
 <details>
   <summary><b>💻 Random deployed apps</b></summary>
