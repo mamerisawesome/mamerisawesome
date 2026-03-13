@@ -8,14 +8,14 @@ TODO: Hits counter API check
 
 <a href="https://almermamer.vercel.app/"><img src="https://img.shields.io/badge/Personal_Website-darkgreen?style=for-the-badge"></a>
 <a href="https://www.github.com/mamerisawesome/"><img src="https://img.shields.io/github/followers/mamerisawesome?style=for-the-badge&logo=github&logoColor=white&color=white"></a>
-<a href="https://www.linkedin.com/in/mamerisawesome/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/almermendoza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:atm.almermendoza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 🧑‍💻 Full-Stack Web Engineer at [Thinking Machines](https://thinkingmachin.es/)
 
 🕸️ Uses Python and JavaScript
 
-🐈 Lives with three cats 🐈🐈
+🐈 Lives with cats 🐈🐈
 
 <!--
 <br />
